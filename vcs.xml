@@ -10,8 +10,12 @@
           <option name="url" value="http://github.com/" />
           <option name="userName" value="rajnasit02@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nasitraj/Master.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\raj\AndroidStudioProjects" />
+    <option name="cloneParentDir" value="C:\Users\raj\Desktop\Asigment2" />
   </component>
 </application>
